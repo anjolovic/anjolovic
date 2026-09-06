@@ -1,0 +1,646 @@
+{
+  "topic": "What if you fell off a cruise ship in the middle of the ocean",
+  "genre": "education",
+  "animation_mode": "fully_animated",
+  "channel_type": "explainer",
+  "style": "2D Illustrator",
+  "through_line": {
+    "name": "the orange lifebuoy ring",
+    "asset": "lifebuoy",
+    "progression": "decoration on the railing, then thrown over, then far off and blinking, then reached and hugged, then held up as a beacon",
+    "resolution": "back on its bracket in daylight, the passenger safely behind the railing it came from"
+  },
+  "arc": {
+    "hook": 1,
+    "build": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "turn": 29,
+    "payoff": 30
+  },
+  "locations": {
+    "deck_night": "top deck of a cruise ship at night, railing with a mounted lifebuoy ring",
+    "fall_air": "midair beside the towering white hull at night, water far below",
+    "underwater": "below the surface at night, bubbles rising into deep blue-black",
+    "diagram_stage": "clean chart stage with a human body outline and a big thermometer",
+    "ocean_night": "black ocean surface at night, receding ship lights on the horizon",
+    "ship_stern": "the cruise ship seen from water level behind, wake churning white",
+    "bridge": "ship bridge interior with the wheel, radar screen and wide windows",
+    "warm_sea": "turquoise tropical daylight sea surface with a low sun",
+    "cold_sea": "grey fog-bound northern sea surface with cold swells",
+    "lifeboat_sea": "an orange rescue lifeboat on the daylight sea, binoculars on the bow",
+    "deck_day": "the same cruise ship railing in bright daylight, sea beyond"
+  },
+  "blocks": [
+    {
+      "n": 1,
+      "arc_role": "hook",
+      "vo_line": "Forty meters of air, then the ocean. That is the drop from a cruise ship's top deck at twenty knots at night.",
+      "location": "deck_night",
+      "through_line_state": "mounted on the railing beside the passenger",
+      "shots": [
+        "WIDE establishing: the passenger leans on the night railing as the deck rolls, the lifebuoy ring mounted beside them",
+        "CU low angle: the passenger's sandal slides on the wet deck plank and lifts",
+        "MEDIUM lateral: the passenger tips over the rail, arms flailing, ring left behind",
+        "ECU high angle: the ring's orange curve fills frame as the figure drops past it",
+        "WIDE high angle looking down: the figure shrinks toward the black water far below"
+      ],
+      "assets_used": [
+        "deck_night",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 2,
+      "arc_role": "build",
+      "vo_line": "Roughly two dozen people go over the side of cruise ships every year, and only about one in five is pulled out alive.",
+      "location": "deck_night",
+      "through_line_state": "still mounted on the rail as the deck empties",
+      "shots": [
+        "MEDIUM lateral: five cutout passengers pop up in a row along the railing, staggered",
+        "CU: four of the five figures flip to grey one after another, one stays colored",
+        "WIDE high angle: the deck, now empty, the mounted ring the only orange left",
+        "ECU: a checkmark and four crosses stamp down beside the ring",
+        "MEDIUM low angle: the surviving colored passenger raises a hand as the others fade"
+      ],
+      "assets_used": [
+        "deck_night",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 3,
+      "arc_role": "build",
+      "vo_line": "The fall lasts under three seconds, about thirteen floors, and you hit the water at close to ninety kilometers an hour.",
+      "location": "fall_air",
+      "through_line_state": "a shrinking orange dot on the deck above",
+      "shots": [
+        "WIDE establishing: the passenger falls beside the hull, thirteen deck rows sliding upward",
+        "ECU: a speedometer dial needle sweeps hard to the right and shudders",
+        "MEDIUM: the falling passenger tumbles past lit portholes, the ring a dot above",
+        "CU: wind rips at the passenger's shirt, eyes squeezed shut",
+        "WIDE low angle from the water: the figure drops straight toward camera"
+      ],
+      "assets_used": [
+        "fall_air",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 4,
+      "arc_role": "build",
+      "vo_line": "At that speed water feels like pavement, so go in feet first with your legs together, arms crossed and chin tucked down.",
+      "location": "fall_air",
+      "through_line_state": "far above on the rail as the water rushes up",
+      "shots": [
+        "MEDIUM: the passenger snaps from a starfish sprawl into a straight pencil shape",
+        "ECU: arms fold across the chest and the chin drops, one snap",
+        "WIDE lateral: the pencil figure plunges past the hull, feet pointing down",
+        "CU low angle: a red cross stamps over a belly-first splayed silhouette",
+        "MEDIUM high angle: the pencil figure hits the surface in a tight white splash"
+      ],
+      "assets_used": [
+        "fall_air",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 5,
+      "arc_role": "build",
+      "vo_line": "You plunge four or five meters into darkness, your ears pop, and every nerve in your body is screaming one word: up.",
+      "location": "underwater",
+      "through_line_state": "a blurred orange glow far above the surface",
+      "shots": [
+        "WIDE: the passenger sinks in a column of bubbles, the surface a pale sheet overhead",
+        "ECU: the passenger's ear with a sharp pop ring drawn around it",
+        "MEDIUM low angle: the passenger kicks, hair streaming, looking up",
+        "CU: the passenger's eyes open wide in the dark",
+        "WIDE high angle: a single bold arrow drops in pointing up, the ring glowing faintly above"
+      ],
+      "assets_used": [
+        "underwater",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 6,
+      "arc_role": "build",
+      "vo_line": "Then the real danger begins, because cold water forces an involuntary gasp, and if your face is under, that gasp is seawater.",
+      "location": "diagram_stage",
+      "through_line_state": "drawn as a small orange circle at the diagram's edge",
+      "shots": [
+        "MEDIUM: the body outline on the chart stage fills with cold blue from the feet upward",
+        "ECU: the mouth of the outline snaps open and a big gasp bubble bursts out",
+        "WIDE lateral: a water line slides up across the outline until it covers the face",
+        "CU: water pours into the open mouth of the outline, lungs flash red",
+        "MEDIUM low angle: the passenger, small at the stage edge, claps both hands over their mouth"
+      ],
+      "assets_used": [
+        "diagram_stage",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 7,
+      "arc_role": "build",
+      "vo_line": "Survival experts have a rule for this, and its first number is sixty seconds spent doing nothing but slowing your breath.",
+      "location": "ocean_night",
+      "through_line_state": "on the ship's rail, lights shrinking on the horizon",
+      "shots": [
+        "WIDE establishing: the passenger floats on their back on the black swell, ship lights far off",
+        "CU: the passenger's chest rises and falls, breath clouds slowing",
+        "ECU: a stopwatch face with a single hand sweeping one full turn",
+        "MEDIUM high angle: the passenger's legs drift up level with the surface",
+        "CU lateral: the passenger's eyes close and the mouth settles into a calm line"
+      ],
+      "assets_used": [
+        "ocean_night",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 8,
+      "arc_role": "build",
+      "vo_line": "Meanwhile the ship is not stopping, because a hundred thousand tons moving at twenty knots needs well over a kilometer to halt.",
+      "location": "ship_stern",
+      "through_line_state": "mounted on the stern rail, pulling away",
+      "shots": [
+        "WIDE establishing: the stern towers over the water, wake boiling white, the passenger a speck",
+        "ECU: a giant anchor icon swings but the hull keeps sliding past it",
+        "MEDIUM low angle: the passenger bobs as the wake rolls over them",
+        "CU: the stern rail with its mounted ring slides out of frame right",
+        "WIDE high angle: a long dotted line draws from the ship far ahead back to the passenger"
+      ],
+      "assets_used": [
+        "ship_stern",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 9,
+      "arc_role": "build",
+      "vo_line": "That works out to ten meters every second, so one minute of catching your breath leaves the ship six football fields away.",
+      "location": "ship_stern",
+      "through_line_state": "a speck of orange on the receding stern",
+      "shots": [
+        "MEDIUM: six football field cutouts stamp down end to end across the water, staggered",
+        "ECU: a ticking counter of dots fills one by one",
+        "WIDE lateral: the ship now tiny at the far end of the fields, the passenger at the near end",
+        "CU low angle: the passenger squints at the distant lights",
+        "MEDIUM high angle: the last field drops in with a thud and the ship slips beyond it"
+      ],
+      "assets_used": [
+        "ship_stern",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 10,
+      "arc_role": "build",
+      "vo_line": "Worse, nobody may have seen you fall, since hull sensors that trigger an overboard alarm are still missing from many ships.",
+      "location": "deck_night",
+      "through_line_state": "still hanging on the empty rail, unnoticed",
+      "shots": [
+        "MEDIUM: the empty night deck, deck chairs, nobody at the rail, the ring hanging idle",
+        "ECU: a hull sensor grid glows red then flickers out to grey",
+        "CU high angle: a question mark stamps beside the dark sensor",
+        "WIDE lateral: a row of five hulls, three carry glowing grids, two stay dark",
+        "MEDIUM low angle: the ring on the rail swings gently, nobody near"
+      ],
+      "assets_used": [
+        "deck_night",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 11,
+      "arc_role": "build",
+      "vo_line": "Suppose a passenger saw you, so the bridge gets the call and a lifebuoy flies over the rail trailing light and smoke.",
+      "location": "deck_night",
+      "through_line_state": "thrown over the rail, trailing light and smoke",
+      "shots": [
+        "CU: a crew member's hand slams a red alarm button",
+        "MEDIUM lateral: the crew member yanks the ring off its bracket and hurls it over the rail",
+        "ECU: the ring's strobe light blinks on as it clears the rail",
+        "WIDE high angle: the ring falls trailing orange smoke toward the black water",
+        "MEDIUM low angle: the crew member points down over the rail, other arm waving"
+      ],
+      "assets_used": [
+        "deck_night",
+        "crew",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 12,
+      "arc_role": "build",
+      "vo_line": "That ring is not thrown for you, it marks the exact spot you went in, a fixed point on a very blank ocean.",
+      "location": "ocean_night",
+      "through_line_state": "floating far off, strobe blinking, marking the spot",
+      "shots": [
+        "WIDE: the ring bobs alone on the black swell, strobe pulsing, smoke drifting",
+        "ECU: the strobe flash blooms across the water",
+        "MEDIUM high angle: a pushpin stamps down onto the ring's position, the passenger far away",
+        "CU lateral: the passenger turns their head toward the distant blink",
+        "WIDE high angle: a dotted circle draws itself around the ring on an otherwise empty sea"
+      ],
+      "assets_used": [
+        "ocean_night",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 13,
+      "arc_role": "build",
+      "vo_line": "On the bridge the captain swings the wheel one way then the other, a Williamson turn looping the ship back onto its wake.",
+      "location": "bridge",
+      "through_line_state": "its strobe a dot on the radar screen",
+      "shots": [
+        "WIDE establishing: the bridge, a crew member at the wheel, the radar screen glowing with one dot",
+        "CU: hands spin the wheel hard to one side, spokes blurring",
+        "ECU: the radar dot for the ring pulses at the screen's edge",
+        "MEDIUM lateral: hands spin the wheel back the other way, the crew member leaning",
+        "WIDE high angle overhead: a ship icon traces a looping path back onto its own dotted wake"
+      ],
+      "assets_used": [
+        "bridge",
+        "crew",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 14,
+      "arc_role": "build",
+      "vo_line": "For a vessel this size that maneuver takes ten to fifteen minutes, and you are a coconut floating in a parking lot.",
+      "location": "ocean_night",
+      "through_line_state": "a faint blink on the swell, still far",
+      "shots": [
+        "ECU: a clock face with the hand sweeping through a quarter turn",
+        "WIDE high angle: the passenger's head, tiny, on a vast flat grey-black expanse",
+        "MEDIUM: a coconut drops in beside the passenger's head, same size, bobbing",
+        "CU low angle: the passenger glances at the coconut, deadpan",
+        "WIDE lateral: the ring's blink far off, the passenger and coconut drifting"
+      ],
+      "assets_used": [
+        "ocean_night",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 15,
+      "arc_role": "build",
+      "vo_line": "Remember the rule, its second number is ten minutes, roughly how long cold water leaves your arms and legs able to work.",
+      "location": "diagram_stage",
+      "through_line_state": "drawn orange at the stage edge, closer than before",
+      "shots": [
+        "MEDIUM: the body outline on the stage, arms and legs glowing red",
+        "ECU: a ten-tick dial fills tick by tick",
+        "CU lateral: the outline's arms fade from red to blue, fingers curling",
+        "WIDE high angle: the whole outline goes blue from the limbs inward, torso last",
+        "MEDIUM low angle: the passenger at the stage edge shakes out stiff arms, ring behind them"
+      ],
+      "assets_used": [
+        "diagram_stage",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 16,
+      "arc_role": "build",
+      "vo_line": "Spend them wisely, kick off heavy shoes, yet keep a light jacket on, because it traps a warm layer against your skin.",
+      "location": "ocean_night",
+      "through_line_state": "blinking ahead, nearer with each swell",
+      "shots": [
+        "CU: the passenger's shoes slip off their feet and sink, one then the other",
+        "MEDIUM lateral: the passenger zips the light jacket up to the chin",
+        "ECU: a thin glowing layer of warmth traced between jacket and skin",
+        "WIDE high angle: the passenger paddles toward the blinking ring, closer now",
+        "MEDIUM: a checkmark stamps beside the jacket, a cross beside the sinking shoes"
+      ],
+      "assets_used": [
+        "ocean_night",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 17,
+      "arc_role": "build",
+      "vo_line": "Then swim for that lifebuoy if it landed anywhere near you, because that orange ring is now your entire world.",
+      "location": "ocean_night",
+      "through_line_state": "reached at last, both arms hooked through it",
+      "shots": [
+        "MEDIUM low angle: the passenger's hand stretches and grabs the ring's edge",
+        "ECU: fingers lock around the orange foam, strobe flashing against the knuckles",
+        "WIDE lateral: the passenger hauls their chest up onto the ring on the black swell",
+        "CU: the passenger presses their cheek to the ring, eyes shut, exhausted",
+        "MEDIUM high angle: the passenger and ring float as one shape, everything else dark"
+      ],
+      "assets_used": [
+        "ocean_night",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 18,
+      "arc_role": "build",
+      "vo_line": "Now the water temperature decides everything, since a Caribbean sea near twenty seven degrees lets you float for most of a day.",
+      "location": "warm_sea",
+      "through_line_state": "hugged to the chest on bright turquoise water",
+      "shots": [
+        "WIDE establishing: bright turquoise sea, the passenger hugging the ring under a low sun",
+        "ECU: the thermometer's red column rises high and settles",
+        "MEDIUM lateral: a sun arcs across the sky above the drifting passenger",
+        "CU high angle: the passenger's sunburnt nose and squinting eyes",
+        "WIDE high angle: a day's sun arc drawn over the whole sea, the passenger still afloat"
+      ],
+      "assets_used": [
+        "warm_sea",
+        "passenger",
+        "lifebuoy",
+        "thermometer"
+      ]
+    },
+    {
+      "n": 19,
+      "arc_role": "build",
+      "vo_line": "An Alaska cruise or an Atlantic crossing can mean ten degrees, and there the rule's last number, one hour, takes over.",
+      "location": "cold_sea",
+      "through_line_state": "clutched tight on grey cold water",
+      "shots": [
+        "WIDE establishing: grey fog-bound sea, the passenger gripping the ring in cold swells",
+        "ECU: the thermometer's column drops to a low blue stub",
+        "MEDIUM: fog rolls over the passenger's shoulders, breath fogging",
+        "CU lateral: the passenger's lips turn blue, teeth chattering",
+        "ECU: a clock face with one hand, a single full sweep"
+      ],
+      "assets_used": [
+        "cold_sea",
+        "passenger",
+        "lifebuoy",
+        "thermometer"
+      ]
+    },
+    {
+      "n": 20,
+      "arc_role": "build",
+      "vo_line": "Cold does not kill you within that hour, it makes you pass out, and then you drown, which is why flotation matters most.",
+      "location": "cold_sea",
+      "through_line_state": "the only thing keeping the head above water",
+      "shots": [
+        "MEDIUM high angle: the passenger's eyelids droop, head nodding toward the water",
+        "CU: the head slumps onto the ring and the ring holds it up",
+        "WIDE lateral: a ghost twin of the passenger without a ring slips under the grey surface",
+        "ECU: the ring's foam pressing up under the passenger's chin",
+        "MEDIUM low angle: a checkmark stamps over the passenger on the ring, a cross over the empty water"
+      ],
+      "assets_used": [
+        "cold_sea",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 21,
+      "arc_role": "build",
+      "vo_line": "Instinct says swim for the ship or the horizon, but swimming drains body heat far faster than lying still and floating.",
+      "location": "diagram_stage",
+      "through_line_state": "drawn beside the floating outline, orange",
+      "shots": [
+        "MEDIUM: two body outlines side by side on the stage, one stroking, one still",
+        "ECU: the swimmer's heat bar drains fast, dropping in chunks",
+        "CU lateral: the still outline's heat bar drops one slow notch",
+        "WIDE high angle: a tiny ship icon far off with a red cross stamped over the path to it",
+        "MEDIUM low angle: the passenger at the stage edge lies back onto the ring, arms spread"
+      ],
+      "assets_used": [
+        "diagram_stage",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 22,
+      "arc_role": "build",
+      "vo_line": "Instead pull your knees to your chest and hug them, the help position, which shields your armpits, groin and chest from the cold.",
+      "location": "diagram_stage",
+      "through_line_state": "tucked under the curled outline's arms",
+      "shots": [
+        "CU: the outline's knees rise and fold toward the chest",
+        "MEDIUM lateral: the outline's arms wrap around the shins, a tight ball",
+        "ECU: three warm zones glow orange, armpits, groin, chest",
+        "WIDE high angle: the curled outline floats as a compact ball, ring tucked in, blue all around",
+        "MEDIUM low angle: the passenger copies the ball shape at the stage edge, nodding"
+      ],
+      "assets_used": [
+        "diagram_stage",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 23,
+      "arc_role": "build",
+      "vo_line": "Back at the ship every crew member is on deck with binoculars, and lifeboats drop low enough to spot a head between swells.",
+      "location": "lifeboat_sea",
+      "through_line_state": "hugged in the water as boats drop nearby",
+      "shots": [
+        "WIDE establishing: an orange lifeboat lowers onto the daylight sea, a crew member on the bow",
+        "ECU: the binoculars' twin lenses sweep across the swells",
+        "MEDIUM low angle: the crew member braces on the bow, scanning left then right",
+        "CU: through the lens rings, a small head on the ring between two waves",
+        "WIDE high angle: three lifeboats fan out across the sea, the passenger a dot among swells"
+      ],
+      "assets_used": [
+        "lifeboat_sea",
+        "crew",
+        "passenger",
+        "lifebuoy",
+        "binoculars"
+      ]
+    },
+    {
+      "n": 24,
+      "arc_role": "build",
+      "vo_line": "Coast guards and nearby ships join in, searching an expanding square pattern that begins at that blinking lifebuoy and grows outward.",
+      "location": "diagram_stage",
+      "through_line_state": "the pushpin center of the search map",
+      "shots": [
+        "WIDE high angle overhead: a flat sea map, the ring as a blinking pushpin at its center",
+        "ECU: a boat icon traces the first small square around the pin",
+        "MEDIUM: the square path grows outward, a second larger square drawing itself",
+        "CU: a second boat icon and a helicopter icon drop onto the map's edge",
+        "WIDE lateral: the full expanding spiral of squares, the pin still blinking at the heart"
+      ],
+      "assets_used": [
+        "diagram_stage",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 25,
+      "arc_role": "build",
+      "vo_line": "Your job is to be visible, so raise one arm high, wave anything bright, and blow a whistle, since sound carries over water.",
+      "location": "warm_sea",
+      "through_line_state": "held up high as a bright orange flag",
+      "shots": [
+        "MEDIUM: the passenger thrusts one arm straight up out of the turquoise water and waves",
+        "ECU: a cross stamps over a two-armed wave that dunks a ghost twin under",
+        "CU low angle: the passenger hoists the orange ring overhead like a flag",
+        "WIDE lateral: sound ripples spread from the whistle across the bright sea",
+        "ECU: the whistle between the passenger's lips, cheeks puffed"
+      ],
+      "assets_used": [
+        "warm_sea",
+        "passenger",
+        "lifebuoy",
+        "whistle"
+      ]
+    },
+    {
+      "n": 26,
+      "arc_role": "build",
+      "vo_line": "At night that changes, because a searchlight is the only thing that finds you, and the strobe on the ring becomes your beacon.",
+      "location": "ocean_night",
+      "through_line_state": "a strobe pulsing, the only light in black water",
+      "shots": [
+        "WIDE high angle: near-total dark, one strobe blinking on the black swell",
+        "ECU: the strobe flash on the ring lighting the passenger's face in pulses",
+        "MEDIUM lateral: a searchlight beam sweeps the water from the left",
+        "CU: the beam catches the ring and stops, the passenger squinting into it",
+        "WIDE lateral: beam locked on the blinking ring, the sea black everywhere else"
+      ],
+      "assets_used": [
+        "ocean_night",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 27,
+      "arc_role": "build",
+      "vo_line": "And the sharks are statistically not your problem, since open ocean predators rarely bother swimmers, while cold and invisibility do the damage.",
+      "location": "warm_sea",
+      "through_line_state": "hugged calmly while a shark shrugs past",
+      "shots": [
+        "MEDIUM: a fin cuts the turquoise surface toward the passenger on the ring",
+        "CU low angle: the cartoon shark surfaces and shrugs with both fins",
+        "WIDE lateral: the shark turns and swims off, the passenger unbothered on the ring",
+        "ECU: a red cross stamps over the shark's fin",
+        "MEDIUM high angle: a blue cold icon and a blindfold icon stamp beside the passenger instead"
+      ],
+      "assets_used": [
+        "warm_sea",
+        "passenger",
+        "shark",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 28,
+      "arc_role": "build",
+      "vo_line": "People have been found alive after twenty hours in warm water, sometimes by a completely different ship whose lookout spotted them floating.",
+      "location": "ship_stern",
+      "through_line_state": "clutched as a different ship's bow looms in",
+      "shots": [
+        "ECU: a sun and moon icon swap places twice over the water",
+        "WIDE lateral: a different ship's bow appears at the edge of frame, the passenger on the ring below",
+        "MEDIUM low angle: a crew member on that bow points down and shouts silently",
+        "CU high angle: a rope ladder unrolls down the hull toward the passenger",
+        "MEDIUM: the passenger grabs the ladder with one hand, the ring in the other"
+      ],
+      "assets_used": [
+        "ship_stern",
+        "passenger",
+        "crew",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 29,
+      "arc_role": "turn",
+      "vo_line": "Here is the twist, cruise railings stand over a meter tall by law, so almost nobody slips, people climb them for a photo.",
+      "location": "deck_day",
+      "through_line_state": "back on its bracket in daylight, untouched",
+      "shots": [
+        "WIDE establishing: the same railing in daylight, the ring on its bracket, sea sparkling beyond",
+        "ECU: a measuring tape snaps up beside the railing, stopping above the passenger's waist",
+        "MEDIUM lateral: the passenger plants one foot on the middle rail and lifts a phone for a selfie",
+        "CU low angle: the phone tilts, the passenger's balance wobbles",
+        "WIDE high angle: a red cross stamps over the climbing pose, the ring hanging calmly beside it"
+      ],
+      "assets_used": [
+        "deck_day",
+        "passenger",
+        "lifebuoy"
+      ]
+    },
+    {
+      "n": 30,
+      "arc_role": "payoff",
+      "vo_line": "So float, never swim, and remember the ordeal started on the wrong side of a railing, forty meters of air, one bad decision.",
+      "location": "deck_day",
+      "through_line_state": "hanging on the rail, exactly where it belongs",
+      "shots": [
+        "MEDIUM: the passenger steps back down onto the deck, both feet planted",
+        "ECU: a green checkmark stamps onto the railing itself",
+        "CU lateral: the passenger rests both hands on the top rail, phone pocketed",
+        "WIDE high angle: the drop below the rail, forty meters of air to the water, the passenger safely behind it",
+        "MEDIUM low angle: the passenger pats the ring on its bracket once and walks off"
+      ],
+      "assets_used": [
+        "deck_day",
+        "passenger",
+        "lifebuoy"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bright_Side_(YouTube_channel)",
+    "https://www.rnli.org/safety/float",
+    "https://www.uscg.mil/",
+    "https://en.wikipedia.org/wiki/Williamson_turn",
+    "https://en.wikipedia.org/wiki/Cruise_Vessel_Security_and_Safety_Act",
+    "https://en.wikipedia.org/wiki/Cold_shock_response",
+    "https://en.wikipedia.org/wiki/Heat_escape_lessening_position"
+  ]
+}
