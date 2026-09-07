@@ -1,6 +1,7 @@
 # YouTube Upload Package — "What If You Fell Off a Cruise Ship?"
 
 Everything below is copy-ready. Files referenced live in this folder.
+Channel: **Then What** (brand record: `../channel/CHANNEL-BRAND.md`).
 
 ## 1. Assets
 
@@ -28,6 +29,7 @@ Primary (62 characters):
 
 Alternates for a title test later:
 
+- You Fell Off a Cruise Ship. Then What? (channel title grammar, see `../channel/CHANNEL-BRAND.md` §5)
 - You Fell Off a Cruise Ship. Here's What Happens Next
 - Only 1 in 5 Survive Falling Off a Cruise Ship. Here's Why
 
@@ -76,10 +78,11 @@ The five above satisfy that and sit on block boundaries (0:00, 0:20, 0:50, 1:20,
 
 ## 6. Cards and end screen
 
-- **Card at 0:52** ("the ship can't stop"): link to your next what-if or survival video.
-- **Card at 1:41** (the twist): link to a playlist of what-if videos.
+- **Card at 0:52** ("the ship can't stop"): link to the next Survival episode (*The Pilot Passes Out at 35,000 Feet. Then What?* once it exists; until then, the Survival playlist).
+- **Card at 1:41** (the twist): link to the What If playlist.
 - **End screen, 1:50 to 2:00**: block 12 is a calm daylight walk-away shot, built for this.
-  Place one video element (next what-if) on the left and a subscribe element on the right.
+  Place one video element (next Survival episode) on the left and a subscribe element for
+  Then What on the right.
   Keep the lower-left clear; nothing important sits there.
 
 ## 7. Pinned comment
@@ -93,6 +96,8 @@ The whole video in five lines:
 5. One arm up, something bright, make noise.
 
 And the boring truth: stay behind the railing. Which cruise are you on next?
+
+That's what. See you in the next one.
 ```
 
 ## 8. Community post (same day)
@@ -120,7 +125,7 @@ Two candidates, both need a 9:16 reframe (crop centered, subject is centered in 
 - Monetization: content is ad-friendly (danger without gore, no profanity).
 - Visibility: schedule for your channel's best hour; Shorts one to two days later.
 - Thumbnail: A, then enable Test & compare with B and C.
-- Playlist: create "What If" and add this as the first entry.
+- Playlist: create the six pillar playlists from `../channel/CHANNEL-BRAND.md` §9 and add this to "Survival" as its first entry.
 
 ## 11. Before you press publish
 
