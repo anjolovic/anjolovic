@@ -30,17 +30,19 @@ Fair Warning, Hindsight, Still Floating.
 
 ## 2. Handle
 
-Claim in this order, first one that is free wins:
+| Field | Value |
+|---|---|
+| Handle | **@thenwhattvshow** (claimed 2026-09-07) |
+| Channel URL | https://www.youtube.com/@thenwhattvshow |
+| Channel id | `UC3on7iZXg0n1oRYBvk7wpOA` |
+| Display name | **Then What?** (with the question mark, matching the wordmark) |
 
-1. `@thenwhat`
-2. `@thenwhat.tv`
-3. `@thenwhatshow`
-4. `@thenwhatstudio`
+Unavailable at claim time, do not retry: `@thenwhat`, `@whathen`, and the dotted and
+underscored forms. YouTube's own suggestions were numbered suffixes; those were rejected
+because a trailing number reads as a spam account.
 
-Record the claimed handle here once done: `@________` (claimed ____-__-__).
-
-Also claim the matching name on TikTok and Instagram the same day, even if unused; Shorts
-cuts will be cross-posted later.
+Claim `thenwhattvshow` on TikTok and Instagram the same week, even if unused; Shorts cuts
+will be cross-posted later.
 
 ## 3. Voice
 
@@ -165,18 +167,18 @@ to prove the name stretches.
 | # | Title | Pillar | Status |
 |---|---|---|---|
 | 1 | You Fell Off a Cruise Ship. Then What? | Survival | 2:00 cut delivered; 5:00 cut prepared |
-| 2 | You're Locked in a Walk-In Freezer. Then What? | Survival | hook written |
-| 3 | Your Elevator Cable Snaps. Then What? | Survival | hook written |
+| 2 | You're Locked in a Walk-In Freezer. Then What? | Survival | 2:00 cut delivered (`production/freezer/`) |
+| 3 | Your Elevator Cable Snaps. Then What? | Survival | 2:00 cut delivered (`production/elevator/`) |
 | 4 | The Dive Boat Left Without You. Then What? | Survival | hook written |
 | 5 | The Volcano Erupts While You're on It. Then What? | Survival | hook written |
 | 6 | You're Lost in a Cave With One Flashlight. Then What? | Survival | hook written |
-| 7 | The Pilot Passes Out at 35,000 Feet. Then What? | Survival | named as the next-video pointer in episode 1 |
+| 7 | The Pilot Passes Out at 35,000 Feet. Then What? | Survival | long-form script written (`production/pilot/SCRIPT.md`); promised in the episode 1 outro |
 | 8 | You Stop Sleeping for a Week. Then What? | Your Body | seed |
 | 9 | The Moon Vanishes Tonight. Then What? | Space | seed |
 | 10 | The Titanic Sinks. Then What Really Happened? | Mysteries | seed; fact-check heavy |
 | 11 | Only 1 in 10 Escape This Room. Then What? | Tests | seed |
 
-Episode 7 ships second: it is already promised in the episode 1 outro and end screen.
+Episode 7 ships next as a long-form episode: it is already promised in the episode 1 outro and end screen.
 
 ## 11. Launch order
 
