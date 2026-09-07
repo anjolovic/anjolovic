@@ -1,0 +1,640 @@
+{
+ "channel_voice": {
+  "name": "Arthur",
+  "voice_id": "30fc8796-ceb6-4a66-b3a7-4a145ef7f346",
+  "voice_type": "preset",
+  "engine": "text2speech_v2/elevenlabs"
+ },
+ "video_model": {
+  "id": "seedance_2_0",
+  "mode": "std",
+  "resolution": "1080p",
+  "duration": 10,
+  "aspect": "16:9"
+ },
+ "still_model": {
+  "id": "seedream_v5_pro",
+  "resolution": "1k"
+ },
+ "episodes": {
+  "cruise": {
+   "title": "What If You Fell Off a Cruise Ship in the Middle of the Ocean?",
+   "stills": [
+    {
+     "kind": "passenger",
+     "job_id": "c8c875b6-2a92-4620-9689-344b97fd5827",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234407_c8c875b6-2a92-4620-9689-344b97fd5827.png"
+    },
+    {
+     "kind": "deck_night",
+     "job_id": "16d5fdd3-f6e2-4638-8c76-8726b64e8907",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234406_16d5fdd3-f6e2-4638-8c76-8726b64e8907.png"
+    },
+    {
+     "kind": "ocean_night",
+     "job_id": "0abd32b9-e631-48e3-9254-c326dd97956a",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234406_0abd32b9-e631-48e3-9254-c326dd97956a.png"
+    },
+    {
+     "kind": "underwater",
+     "job_id": "0e56af74-86a7-4610-a3f3-ddced73b17ca",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234407_0e56af74-86a7-4610-a3f3-ddced73b17ca.png"
+    },
+    {
+     "kind": "ship_stern",
+     "job_id": "5227cd6d-20ff-4588-a330-d8b5d48ca065",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234407_5227cd6d-20ff-4588-a330-d8b5d48ca065.png"
+    },
+    {
+     "kind": "bridge",
+     "job_id": "74014372-86a7-4084-9219-1ae8e1a7d4d0",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234406_74014372-86a7-4084-9219-1ae8e1a7d4d0.png"
+    },
+    {
+     "kind": "warm_sea",
+     "job_id": "d2c73afd-8871-40bd-b369-0944a1c87e1d",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234406_d2c73afd-8871-40bd-b369-0944a1c87e1d.png"
+    },
+    {
+     "kind": "cold_sea",
+     "job_id": "1266d0c8-0f0a-42f9-97ea-8d3389ec2374",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234406_1266d0c8-0f0a-42f9-97ea-8d3389ec2374.png"
+    },
+    {
+     "kind": "lifeboat",
+     "job_id": "8b1a460d-8fd9-4509-8b82-1ddadd7dee0f",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234407_8b1a460d-8fd9-4509-8b82-1ddadd7dee0f.png"
+    },
+    {
+     "kind": "deck_day",
+     "job_id": "84e4decf-2fe5-4214-adf2-fbddb7150889",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234407_84e4decf-2fe5-4214-adf2-fbddb7150889.png"
+    },
+    {
+     "kind": "lifebuoy",
+     "job_id": "e4d1305a-6277-4974-a727-a0f7d6055a6c",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234406_e4d1305a-6277-4974-a727-a0f7d6055a6c.png"
+    },
+    {
+     "kind": "crew",
+     "job_id": "4d159094-f7b1-4e91-9095-ddf831e3d45d",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234407_4d159094-f7b1-4e91-9095-ddf831e3d45d.png"
+    },
+    {
+     "kind": "thumbnail_base",
+     "job_id": "2ffda89a-ed4b-453f-bcec-d6d872f80fcb",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235634_2ffda89a-ed4b-453f-bcec-d6d872f80fcb.png"
+    }
+   ],
+   "clips": [
+    {
+     "kind": "block01",
+     "job_id": "96755ecd-94bc-479c-832f-c4258878e22f",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_96755ecd-94bc-479c-832f-c4258878e22f.mp4"
+    },
+    {
+     "kind": "block02",
+     "job_id": "2bf51fce-a1b9-4e8f-b440-d25e6b10847f",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_2bf51fce-a1b9-4e8f-b440-d25e6b10847f.mp4"
+    },
+    {
+     "kind": "block03",
+     "job_id": "a6f2e83d-8002-437a-89d2-17bb34e0f919",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_a6f2e83d-8002-437a-89d2-17bb34e0f919.mp4"
+    },
+    {
+     "kind": "block04",
+     "job_id": "05fdf0be-0fa3-42a4-82bc-7c166f03d2b8",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_05fdf0be-0fa3-42a4-82bc-7c166f03d2b8.mp4"
+    },
+    {
+     "kind": "block05",
+     "job_id": "8754d052-cae8-45e2-afd6-0a711cad98b9",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_8754d052-cae8-45e2-afd6-0a711cad98b9.mp4"
+    },
+    {
+     "kind": "block06",
+     "job_id": "e4c86b7c-f8e0-4742-8e73-5f3980782630",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_e4c86b7c-f8e0-4742-8e73-5f3980782630.mp4"
+    },
+    {
+     "kind": "block07",
+     "job_id": "a475f1b3-d256-4924-8e23-e5ee5d85c630",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_a475f1b3-d256-4924-8e23-e5ee5d85c630.mp4"
+    },
+    {
+     "kind": "block08",
+     "job_id": "b0babc2f-e694-482d-abe0-ee8f1a28c26e",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_b0babc2f-e694-482d-abe0-ee8f1a28c26e.mp4"
+    },
+    {
+     "kind": "block09",
+     "job_id": "bef7ab9d-4988-4921-8119-c7dc719a78e0",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_bef7ab9d-4988-4921-8119-c7dc719a78e0.mp4"
+    },
+    {
+     "kind": "block10",
+     "job_id": "f8126fe5-226c-478a-b1bb-b6172c5e16dc",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_f8126fe5-226c-478a-b1bb-b6172c5e16dc.mp4"
+    },
+    {
+     "kind": "block11",
+     "job_id": "f55f1812-d4e7-46c2-afe7-eab52c43e727",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_f55f1812-d4e7-46c2-afe7-eab52c43e727.mp4"
+    },
+    {
+     "kind": "block12",
+     "job_id": "ef2d3d36-2c6d-41c0-aba3-674f2304449d",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235004_ef2d3d36-2c6d-41c0-aba3-674f2304449d.mp4"
+    }
+   ],
+   "voices": [
+    {
+     "kind": "line01",
+     "job_id": "765535ba-a511-46d7-bace-39c261340a2c",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234830_765535ba-a511-46d7-bace-39c261340a2c.mp3"
+    },
+    {
+     "kind": "line02",
+     "job_id": "87f9baae-eb88-481f-96bd-b2268972bca4",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_000131_87f9baae-eb88-481f-96bd-b2268972bca4.mp3"
+    },
+    {
+     "kind": "line03",
+     "job_id": "7ef0c18c-a4c7-4dc8-a814-778e3616432c",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234427_7ef0c18c-a4c7-4dc8-a814-778e3616432c.mp3"
+    },
+    {
+     "kind": "line04",
+     "job_id": "ec8122d4-5577-4f70-bd04-7f088da2cc83",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234427_ec8122d4-5577-4f70-bd04-7f088da2cc83.mp3"
+    },
+    {
+     "kind": "line05",
+     "job_id": "02b1e319-00d0-45b6-a650-62a510d116eb",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234427_02b1e319-00d0-45b6-a650-62a510d116eb.mp3"
+    },
+    {
+     "kind": "line06",
+     "job_id": "bbbb5527-e22c-4fd3-81f5-cd721a842a42",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235156_bbbb5527-e22c-4fd3-81f5-cd721a842a42.mp3"
+    },
+    {
+     "kind": "line07",
+     "job_id": "24525d7a-ba16-4578-a9fc-490fb0d8e587",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_000131_24525d7a-ba16-4578-a9fc-490fb0d8e587.mp3"
+    },
+    {
+     "kind": "line08",
+     "job_id": "4c60e5a6-cc31-4fd9-8661-514010b226d4",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234427_4c60e5a6-cc31-4fd9-8661-514010b226d4.mp3"
+    },
+    {
+     "kind": "line09",
+     "job_id": "d9731b3b-d082-449c-b7e8-42eb0ef44f9d",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235343_d9731b3b-d082-449c-b7e8-42eb0ef44f9d.mp3"
+    },
+    {
+     "kind": "line10",
+     "job_id": "6ca17b38-63e5-4dc3-88d6-91171b1c010d",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234427_6ca17b38-63e5-4dc3-88d6-91171b1c010d.mp3"
+    },
+    {
+     "kind": "line11",
+     "job_id": "6e9f2bc2-8e0d-44e7-a6b2-cc33e2cd6509",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_235008_6e9f2bc2-8e0d-44e7-a6b2-cc33e2cd6509.mp3"
+    },
+    {
+     "kind": "line12",
+     "job_id": "8e22f596-a51e-479b-a68d-17bafc0fc074",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234830_8e22f596-a51e-479b-a68d-17bafc0fc074.mp3"
+    }
+   ],
+   "music": [
+    {
+     "kind": "bed",
+     "job_id": "ce0cc568-dd88-44ff-a688-1604d1544f90",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260906_234431_ce0cc568-dd88-44ff-a688-1604d1544f90.m4a"
+    }
+   ],
+   "final": {
+    "kind": "final_1080p",
+    "media_id": "2f7f8b60-7e86-4c58-aebf-280943f2cb19",
+    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/2f7f8b60-7e86-4c58-aebf-280943f2cb19.mp4"
+   },
+   "thumbnails": [
+    {
+     "kind": "A_could_you_survive",
+     "media_id": "4226ccaa-a5bf-4c2c-b37e-c175f675f079",
+     "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/4226ccaa-a5bf-4c2c-b37e-c175f675f079.jpg"
+    },
+    {
+     "kind": "B_1_in_5_survive",
+     "media_id": "6d034ab1-8fa9-4f6b-b2df-97a91c6b4e95",
+     "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/6d034ab1-8fa9-4f6b-b2df-97a91c6b4e95.jpg"
+    },
+    {
+     "kind": "C_never_do_this",
+     "media_id": "daa488e5-280d-49d4-87a7-921c1128c7d0",
+     "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/daa488e5-280d-49d4-87a7-921c1128c7d0.jpg"
+    }
+   ]
+  },
+  "elevator": {
+   "title": "What If Your Elevator Cable Snapped?",
+   "stills": [
+    {
+     "kind": "woman",
+     "job_id": "cedcaf9e-028e-41ee-9a40-c9750b5626cc",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134022_cedcaf9e-028e-41ee-9a40-c9750b5626cc.png"
+    },
+    {
+     "kind": "cabin",
+     "job_id": "2cefab3a-eb13-40b9-bbc6-373af84dbc4b",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134021_2cefab3a-eb13-40b9-bbc6-373af84dbc4b.png"
+    },
+    {
+     "kind": "lobby",
+     "job_id": "ae120042-2b9e-4bee-bde2-aaeb2d54b155",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134021_ae120042-2b9e-4bee-bde2-aaeb2d54b155.png"
+    },
+    {
+     "kind": "shaft",
+     "job_id": "427940c6-ca7e-4c81-b7ad-1c9109cf6a57",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134021_427940c6-ca7e-4c81-b7ad-1c9109cf6a57.png"
+    },
+    {
+     "kind": "machine_room",
+     "job_id": "dc242c73-354f-4439-bdc2-4618695e7148",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134021_dc242c73-354f-4439-bdc2-4618695e7148.png"
+    },
+    {
+     "kind": "pit_buffer",
+     "job_id": "a7afa459-de25-4152-8adf-7999c22e95f1",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134021_a7afa459-de25-4152-8adf-7999c22e95f1.png"
+    },
+    {
+     "kind": "tower_1945",
+     "job_id": "5321f312-d290-4d4e-b668-caf66786d5f6",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134021_5321f312-d290-4d4e-b668-caf66786d5f6.png"
+    },
+    {
+     "kind": "vintage_cabin",
+     "job_id": "80f4b892-004f-4389-b6f0-890ed4a6345f",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134021_80f4b892-004f-4389-b6f0-890ed4a6345f.png"
+    }
+   ],
+   "clips": [
+    {
+     "kind": "block01",
+     "job_id": "5321f1c3-9f8f-4424-85bb-840c4f197aa0",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134417_5321f1c3-9f8f-4424-85bb-840c4f197aa0.mp4"
+    },
+    {
+     "kind": "block02",
+     "job_id": "fc771f95-b081-4411-b5c6-930d8886f949",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134417_fc771f95-b081-4411-b5c6-930d8886f949.mp4"
+    },
+    {
+     "kind": "block03",
+     "job_id": "c74b63bf-d89d-45a9-a276-e0dd98926e5f",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134417_c74b63bf-d89d-45a9-a276-e0dd98926e5f.mp4"
+    },
+    {
+     "kind": "block04",
+     "job_id": "7528b4be-e5f8-4723-be67-e1845c777c42",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134417_7528b4be-e5f8-4723-be67-e1845c777c42.mp4"
+    },
+    {
+     "kind": "block05",
+     "job_id": "14d77337-1dbb-4e40-8abf-545da5da10ca",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134416_14d77337-1dbb-4e40-8abf-545da5da10ca.mp4"
+    },
+    {
+     "kind": "block06",
+     "job_id": "6b5128ea-32bb-4395-810e-11126231d137",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134417_6b5128ea-32bb-4395-810e-11126231d137.mp4"
+    },
+    {
+     "kind": "block07",
+     "job_id": "96f990bd-8f3b-45c7-b4be-0152c9214b52",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134416_96f990bd-8f3b-45c7-b4be-0152c9214b52.mp4"
+    },
+    {
+     "kind": "block08",
+     "job_id": "38103d46-b473-4ef4-b4bc-04f9115c32c2",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134417_38103d46-b473-4ef4-b4bc-04f9115c32c2.mp4"
+    },
+    {
+     "kind": "block09",
+     "job_id": "d90c4718-5c1f-4ca2-938b-0ec08d06610c",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134417_d90c4718-5c1f-4ca2-938b-0ec08d06610c.mp4"
+    },
+    {
+     "kind": "block10",
+     "job_id": "54111bc9-1d96-4b7e-acfb-272cf3e32caf",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134418_54111bc9-1d96-4b7e-acfb-272cf3e32caf.mp4"
+    },
+    {
+     "kind": "block11",
+     "job_id": "fa2b55bb-50d2-4ede-a164-89fd37df0eaf",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134417_fa2b55bb-50d2-4ede-a164-89fd37df0eaf.mp4"
+    },
+    {
+     "kind": "block12",
+     "job_id": "f3a45deb-0183-4299-9789-85654febaab0",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134416_f3a45deb-0183-4299-9789-85654febaab0.mp4"
+    }
+   ],
+   "voices": [
+    {
+     "kind": "line01",
+     "job_id": "d104e157-31a1-4496-a358-1d8681967fec",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134054_d104e157-31a1-4496-a358-1d8681967fec.mp3"
+    },
+    {
+     "kind": "line02",
+     "job_id": "3cc62fc4-62a3-494e-a361-02fee3dee0eb",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134054_3cc62fc4-62a3-494e-a361-02fee3dee0eb.mp3"
+    },
+    {
+     "kind": "line03",
+     "job_id": "8c301e40-42fd-4589-b053-df8656008232",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134054_8c301e40-42fd-4589-b053-df8656008232.mp3"
+    },
+    {
+     "kind": "line04",
+     "job_id": "ef899881-6189-4fdf-a986-4088ee9fc0e7",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134054_ef899881-6189-4fdf-a986-4088ee9fc0e7.mp3"
+    },
+    {
+     "kind": "line05",
+     "job_id": "dfe6447b-8636-4572-896f-d32ecf867db3",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134054_dfe6447b-8636-4572-896f-d32ecf867db3.mp3"
+    },
+    {
+     "kind": "line06",
+     "job_id": "7cdf67d9-d30c-4272-8ae2-ccd2a09de69c",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134054_7cdf67d9-d30c-4272-8ae2-ccd2a09de69c.mp3"
+    },
+    {
+     "kind": "line07",
+     "job_id": "ea581576-762b-44a2-a0fb-e0b7238475a6",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134837_ea581576-762b-44a2-a0fb-e0b7238475a6.mp3"
+    },
+    {
+     "kind": "line08",
+     "job_id": "a7618c1e-7b70-4db6-8945-e9585c474858",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134054_a7618c1e-7b70-4db6-8945-e9585c474858.mp3"
+    },
+    {
+     "kind": "line09",
+     "job_id": "fd1c8a55-83c7-420b-95ac-5b77d0a29756",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134054_fd1c8a55-83c7-420b-95ac-5b77d0a29756.mp3"
+    },
+    {
+     "kind": "line10",
+     "job_id": "55d9c900-37d0-4666-8253-682c51c2b9a7",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134054_55d9c900-37d0-4666-8253-682c51c2b9a7.mp3"
+    },
+    {
+     "kind": "line11",
+     "job_id": "1835531e-e429-429c-b390-42bf973737de",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134054_1835531e-e429-429c-b390-42bf973737de.mp3"
+    },
+    {
+     "kind": "line12",
+     "job_id": "42946b7f-1910-4b5f-b24c-f5a748564a97",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134054_42946b7f-1910-4b5f-b24c-f5a748564a97.mp3"
+    }
+   ],
+   "music": [
+    {
+     "kind": "bed",
+     "job_id": "e61829ef-886e-4786-882a-b3905786905a",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134116_e61829ef-886e-4786-882a-b3905786905a.m4a"
+    }
+   ],
+   "final": {
+    "kind": "final_1080p",
+    "media_id": "a2156adc-85e4-4f48-8b05-74120e3c2739",
+    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/a2156adc-85e4-4f48-8b05-74120e3c2739.mp4"
+   },
+   "thumbnails": [
+    {
+     "kind": "A_dont_jump",
+     "media_id": "38506a3c-bb11-41fe-b9d4-07993a229c3b",
+     "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/38506a3c-bb11-41fe-b9d4-07993a229c3b.jpg"
+    },
+    {
+     "kind": "B_40_floors_down",
+     "media_id": "4ceed1f3-43e5-4a84-b852-6a2e3eaf4f11",
+     "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/4ceed1f3-43e5-4a84-b852-6a2e3eaf4f11.jpg"
+    },
+    {
+     "kind": "C_fell_75_floors",
+     "media_id": "a8c80787-547d-40f3-b0d8-41495ec4b7c1",
+     "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/a8c80787-547d-40f3-b0d8-41495ec4b7c1.jpg"
+    }
+   ]
+  },
+  "freezer": {
+   "title": "What If You Got Locked in a Walk-In Freezer?",
+   "stills": [
+    {
+     "kind": "chef",
+     "job_id": "fa172884-30e8-4978-9088-5e7189686e01",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134034_fa172884-30e8-4978-9088-5e7189686e01.png"
+    },
+    {
+     "kind": "kitchen",
+     "job_id": "f9659af0-478f-4818-9479-bdafa1e8e325",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134034_f9659af0-478f-4818-9479-bdafa1e8e325.png"
+    },
+    {
+     "kind": "freezer_interior",
+     "job_id": "78a97b45-2edc-4851-9421-9562d8dc99aa",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134034_78a97b45-2edc-4851-9421-9562d8dc99aa.png"
+    },
+    {
+     "kind": "door_inside",
+     "job_id": "dcfcfd0d-33d1-4f94-bd7b-6139136ae3ca",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134034_dcfcfd0d-33d1-4f94-bd7b-6139136ae3ca.png"
+    },
+    {
+     "kind": "cardboard_corner",
+     "job_id": "1f69ae94-0bcb-47ec-9fa5-3a373cbf0f9b",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134034_1f69ae94-0bcb-47ec-9fa5-3a373cbf0f9b.png"
+    },
+    {
+     "kind": "dining_room",
+     "job_id": "e36e684b-cee5-4ae3-a612-170507280a16",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134034_e36e684b-cee5-4ae3-a612-170507280a16.png"
+    },
+    {
+     "kind": "pan",
+     "job_id": "fb31e064-6c4b-4fb5-ae67-13b26594384e",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134034_fb31e064-6c4b-4fb5-ae67-13b26594384e.png"
+    },
+    {
+     "kind": "thermometer",
+     "job_id": "d835c58a-7a08-4762-9bda-34008e087f2d",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134035_d835c58a-7a08-4762-9bda-34008e087f2d.png"
+    }
+   ],
+   "clips": [
+    {
+     "kind": "block01",
+     "job_id": "22171f37-50bb-478d-98bf-b726851a86ad",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134545_22171f37-50bb-478d-98bf-b726851a86ad.mp4"
+    },
+    {
+     "kind": "block02",
+     "job_id": "3a15ebed-f252-4771-9339-446a862b4b58",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134545_3a15ebed-f252-4771-9339-446a862b4b58.mp4"
+    },
+    {
+     "kind": "block03",
+     "job_id": "d77c38bd-6aeb-468a-b099-09be96626c7a",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134545_d77c38bd-6aeb-468a-b099-09be96626c7a.mp4"
+    },
+    {
+     "kind": "block04",
+     "job_id": "f997ae9a-e09a-47d3-a528-57ab0ed491c1",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134545_f997ae9a-e09a-47d3-a528-57ab0ed491c1.mp4"
+    },
+    {
+     "kind": "block05",
+     "job_id": "5d367e89-86be-46a9-a70c-fa0f1ccc160e",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134545_5d367e89-86be-46a9-a70c-fa0f1ccc160e.mp4"
+    },
+    {
+     "kind": "block06",
+     "job_id": "28531231-1f12-4711-bd2e-c14950568ef5",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134546_28531231-1f12-4711-bd2e-c14950568ef5.mp4"
+    },
+    {
+     "kind": "block07",
+     "job_id": "be5dc5c2-0f8c-4f98-8dc0-d39ecc5bf425",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134545_be5dc5c2-0f8c-4f98-8dc0-d39ecc5bf425.mp4"
+    },
+    {
+     "kind": "block08",
+     "job_id": "7763473d-6ded-4949-956f-3d1af4aab9db",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134545_7763473d-6ded-4949-956f-3d1af4aab9db.mp4"
+    },
+    {
+     "kind": "block09",
+     "job_id": "0b293337-ed7e-47d0-896b-fe44026eb0e8",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134546_0b293337-ed7e-47d0-896b-fe44026eb0e8.mp4"
+    },
+    {
+     "kind": "block10",
+     "job_id": "43a873d7-a134-4cc1-95d7-5b1ada310b2c",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134545_43a873d7-a134-4cc1-95d7-5b1ada310b2c.mp4"
+    },
+    {
+     "kind": "block11",
+     "job_id": "211b9452-1daa-4163-867c-a0b877739f9a",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134545_211b9452-1daa-4163-867c-a0b877739f9a.mp4"
+    },
+    {
+     "kind": "block12",
+     "job_id": "740b12b0-03f8-4611-a0ba-56aec455fd05",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134545_740b12b0-03f8-4611-a0ba-56aec455fd05.mp4"
+    }
+   ],
+   "voices": [
+    {
+     "kind": "line01",
+     "job_id": "e72adb72-fbf6-41b6-b90f-603b4d152ea4",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_135050_e72adb72-fbf6-41b6-b90f-603b4d152ea4.mp3"
+    },
+    {
+     "kind": "line02",
+     "job_id": "9ffb7f40-2886-4c79-9a16-4bdfeb06feda",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134113_9ffb7f40-2886-4c79-9a16-4bdfeb06feda.mp3"
+    },
+    {
+     "kind": "line03",
+     "job_id": "1cb00170-5d95-453d-9d67-c21cb3134c8a",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134112_1cb00170-5d95-453d-9d67-c21cb3134c8a.mp3"
+    },
+    {
+     "kind": "line04",
+     "job_id": "9db894a3-9b9c-4f88-b9c6-a9040e045ca9",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134112_9db894a3-9b9c-4f88-b9c6-a9040e045ca9.mp3"
+    },
+    {
+     "kind": "line05",
+     "job_id": "27cbc4fc-093d-4253-9fe8-e2ebcafa8686",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134659_27cbc4fc-093d-4253-9fe8-e2ebcafa8686.mp3"
+    },
+    {
+     "kind": "line06",
+     "job_id": "4219fd00-c902-487b-b66e-b821ab79f37c",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134647_4219fd00-c902-487b-b66e-b821ab79f37c.mp3"
+    },
+    {
+     "kind": "line07",
+     "job_id": "2ee82ea0-f9b6-465b-8596-27f743209916",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134648_2ee82ea0-f9b6-465b-8596-27f743209916.mp3"
+    },
+    {
+     "kind": "line08",
+     "job_id": "42e90bce-027b-436a-841d-307ffe8dadc0",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134837_42e90bce-027b-436a-841d-307ffe8dadc0.mp3"
+    },
+    {
+     "kind": "line09",
+     "job_id": "eea7ab81-e6a2-4dcf-aaaa-4bc22e308238",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134647_eea7ab81-e6a2-4dcf-aaaa-4bc22e308238.mp3"
+    },
+    {
+     "kind": "line10",
+     "job_id": "539a01f1-9258-4877-ae61-75ed693f636d",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134647_539a01f1-9258-4877-ae61-75ed693f636d.mp3"
+    },
+    {
+     "kind": "line11",
+     "job_id": "132fcf3c-9c70-483f-a4c7-b88041966f69",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134838_132fcf3c-9c70-483f-a4c7-b88041966f69.mp3"
+    },
+    {
+     "kind": "line12",
+     "job_id": "8413e66f-cfa2-42d8-ad12-f466565b8672",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134647_8413e66f-cfa2-42d8-ad12-f466565b8672.mp3"
+    }
+   ],
+   "music": [
+    {
+     "kind": "bed",
+     "job_id": "c3914efc-b16e-4ae4-9faa-b8ae14a51d54",
+     "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/hf_20260907_134116_c3914efc-b16e-4ae4-9faa-b8ae14a51d54.m4a"
+    }
+   ],
+   "final": {
+    "kind": "final_1080p",
+    "media_id": "561f247f-1182-4de8-a558-fc1ce939323f",
+    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/561f247f-1182-4de8-a558-fc1ce939323f.mp4"
+   },
+   "thumbnails": [
+    {
+     "kind": "A_locked_in",
+     "media_id": "626fd551-8720-49ae-97e8-008f86cc5543",
+     "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/626fd551-8720-49ae-97e8-008f86cc5543.jpg"
+    },
+    {
+     "kind": "B_30_minutes",
+     "media_id": "c2294ef7-3a62-4753-8ad6-541c6194fd3c",
+     "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/c2294ef7-3a62-4753-8ad6-541c6194fd3c.jpg"
+    },
+    {
+     "kind": "C_hidden_release",
+     "media_id": "037622bc-8ff9-4337-bd96-e8bab6dbdddf",
+     "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3HIlJupKcTkYDUHP2WsYg8p9vv2/037622bc-8ff9-4337-bd96-e8bab6dbdddf.jpg"
+    }
+   ]
+  }
+ }
+}
