@@ -30,23 +30,19 @@ Fair Warning, Hindsight, Still Floating.
 
 ## 2. Handle
 
-Bare `@thenwhat` is taken. YouTube handles allow letters, numbers, periods, underscores and
-hyphens, so the fallbacks use punctuation, never a trailing number (a `00` suffix reads as
-a spam account). Claim in this order, first one that is free wins:
+| Field | Value |
+|---|---|
+| Handle | **@thenwhattvshow** (claimed 2026-09-07) |
+| Channel URL | https://www.youtube.com/@thenwhattvshow |
+| Channel id | `UC3on7iZXg0n1oRYBvk7wpOA` |
+| Display name | **Then What?** (with the question mark, matching the wordmark) |
 
-1. `@then.what`
-2. `@then_what`
-3. `@thenwhat.tv`
-4. `@thenwhatshow`
-5. `@then-what`
+Unavailable at claim time, do not retry: `@thenwhat`, `@whathen`, and the dotted and
+underscored forms. YouTube's own suggestions were numbered suffixes; those were rejected
+because a trailing number reads as a spam account.
 
-Display name in the channel settings: **Then What?** with the question mark, matching the
-wordmark. The handle carries no punctuation beyond the separator.
-
-Record the claimed handle here once done: `@________` (claimed ____-__-__).
-
-Also claim the matching name on TikTok and Instagram the same day, even if unused; Shorts
-cuts will be cross-posted later.
+Claim `thenwhattvshow` on TikTok and Instagram the same week, even if unused; Shorts cuts
+will be cross-posted later.
 
 ## 3. Voice
 
