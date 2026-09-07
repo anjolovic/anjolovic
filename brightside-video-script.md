@@ -1,6 +1,7 @@
 # Bright Side–Style Video: Channel Analysis + Production Script
 
-> **Working title:** *What If You Fell Off a Cruise Ship in the Middle of the Ocean?*
+> **Channel:** Then What (brand record: `channel/CHANNEL-BRAND.md`)
+> **Working title:** *What If You Fell Off a Cruise Ship in the Middle of the Ocean?* · channel-grammar alternate: *You Fell Off a Cruise Ship. Then What?*
 > **Target length:** 10:30–11:30 · **VO word count:** ~1,750 · **Read rate:** ~160 wpm
 > **Format:** faceless, stock footage + simple 2D motion graphics, single narrator
 
@@ -370,13 +371,13 @@ Format: `[TIME]` · **VO** (read as written) · *VISUAL* · `TEXT:` on-screen po
 
 ### OUTRO — 10:30 to 10:45
 
-**VO:** If you learned something today, hit like and share this with someone who's about to book a cruise. And if you want to know what happens when a pilot passes out at thirty-five thousand feet, that video's right here. See you in the next one, and stay safe out there.
+**VO:** If you learned something today, hit like and share this with someone who's about to book a cruise. And if you want to know what happens when a pilot passes out at thirty-five thousand feet, that video's right here. That's what. See you in the next one.
 
 *VISUAL: End screen with two video cards (left/right) and subscribe button.*
 
 `SFX: outro sting`
 
-> **Note on the sign-off:** Bright Side closes on a fixed catchphrase. Do not reuse theirs. Pick one line, say it identically in every video, and it becomes yours within twenty uploads.
+> **Note on the sign-off:** Bright Side closes on a fixed catchphrase. Do not reuse theirs. The channel's fixed line is **"That's what. See you in the next one."** It answers the channel name (Then What) and is said identically in every episode. All fixed lines live in `channel/CHANNEL-BRAND.md` §4.
 
 ---
 
