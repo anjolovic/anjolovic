@@ -206,7 +206,7 @@ end. A bug where dry runs persisted placeholder ids was fixed.
 | Live state | Created; default teal "T" avatar; nothing uploaded; no art; About empty |
 | Owner | Alex, GitHub `anjolovic`, solo founder; wants direct, opinionated, actionable collaboration |
 | Repo | `anjolovic/anjolovic`; default branch `claude/brightside-video-script-8yno3u`; working branch `claude/hinksfield-youtube-channel-names-1ynas0` |
-| PRs | #1 name + brand record (merged) · #2 pilot script (merged) · #3 identity + setup + engagement (merged) · **#4 publishing tool + this handoff (open, ready for review)** |
+| PRs | #1 name + brand record (merged) · #2 pilot script (merged) · #3 identity + setup + engagement (merged) · #4 publishing tool (merged) · **#5 this handoff (open)** |
 
 ## B2. File map
 
@@ -305,5 +305,5 @@ TikTok and Instagram `thenwhattvshow` not yet claimed; contact email slot in `CH
 Work on the working branch; restart it from the default head after each merge; open PRs as
 drafts against the default branch; one commit per logical change; plan before each phase and
 confirm direction choices with the owner; ask before anything that spends credits or is hard to
-reverse; verify every statistic against the fact-check tables before recording. The previous
-agent unsubscribed from PR #4 and cancelled its check-in on handoff; the PR is yours.
+reverse; verify every statistic against the fact-check tables before recording. PRs #1–#4 are
+merged; #5 (this file) is open for the owner to merge.
