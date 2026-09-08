@@ -1,0 +1,21 @@
+{
+  "channel_id": "UC3on7iZXg0n1oRYBvk7wpOA",
+  "handle": "@thenwhattvshow",
+  "country": null,
+  "trailer_video_id": null,
+  "description": "Something goes wrong. Then what?\n\nYou're the one in the scenario. Each episode is a cinematic, second-person walk through what actually happens next, minute by minute: what your body does in the first sixty seconds, why the ship can't just stop, who's flying the plane when the pilot goes down, and the one thing that decides how it ends.\n\nSurvival, what-ifs, your body, space, and the mysteries nobody has quite solved. Every number is sourced or rounded. Danger is real, never graphic. Footage is AI-generated to illustrate each scenario; no real incident is depicted.\n\nNew episodes every week. Subscribe and you'll be here for the next one.\n\nThat's what.",
+  "keywords": "\"then what\" \"what if\" \"what happens if\" survival \"how to survive\" \"science explained\" \"your body\" space mysteries \"minute by minute\" \"cinematic explainer\" \"second person\"",
+  "playlists": [
+    {"title": "Survival", "description": "You're the one in trouble. What happens in the first minute, the first hour, and the one thing that gets you home."},
+    {"title": "What If", "description": "Impossible premises taken seriously, minute by minute."},
+    {"title": "Mysteries", "description": "Things that happened, and what really happened next."},
+    {"title": "Your Body", "description": "What your body does when you stop doing the thing it expects."},
+    {"title": "Space", "description": "The universe, at a scale you can picture."},
+    {"title": "Tests", "description": "Pause the video. Decide. Then find out."}
+  ],
+  "sections": [
+    {"type": "singlePlaylist", "playlist": "Survival"},
+    {"type": "singlePlaylist", "playlist": "What If"},
+    {"type": "popularUploads"}
+  ]
+}
