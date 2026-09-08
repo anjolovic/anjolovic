@@ -24,6 +24,8 @@ Alternates: *Locked in a Freezer at -18°C. Here's How You Survive* · *The Free
 ```
 The door clicks shut behind you. Minus eighteen degrees, no phone signal, and nobody due back for hours. Here is what the cold does to you first, the nest that keeps you alive, and the release knob that is usually right there, hidden under frost.
 
+Subscribe for what happens next, minute by minute: https://www.youtube.com/@thenwhattvshow?sub_confirmation=1
+
 ⏱ Chapters
 0:00 The door clicks shut
 0:20 Find the release
@@ -33,6 +35,10 @@ The door clicks shut behind you. Minus eighteen degrees, no phone signal, and no
 1:40 The twist
 
 The rule to remember: get out of the airflow, get off the floor, wrap up, make noise on a schedule, and clear the frost off the door.
+
+Ever worked in a kitchen with a walk-in, and did anyone ever show you the release? Tell me in the comments.
+
+Next: The Pilot Passes Out at 35,000 Feet. Then What? Playlist: Survival.
 
 This video is for general information and is not a substitute for workplace safety training. Survival windows vary with clothing, temperature and airflow.
 
@@ -56,8 +62,8 @@ what if, walk-in freezer, locked in a freezer, freezer survival, hypothermia, fr
 
 - Card at 0:31 (the fan): link to the cruise-ship cold-water video.
 - Card at 1:41 (the twist): link to the What If playlist.
-- End screen 1:50 to 2:00: block 12 is the calm propped-door shot. One video element left, subscribe right.
-- Pinned comment: "Out of the airflow. Off the floor. Cardboard and cling film. Pan on the door every few minutes. Clear the frost off the release. Ever worked in a kitchen with a walk-in?"
+- End screen 1:50 to 2:00: block 12 is the calm propped-door shot. Video element left pointing at *The Pilot Passes Out at 35,000 Feet. Then What?* (until it exists, the cruise-ship video), subscribe right, Survival playlist below.
+- Pinned comment: "Out of the airflow. Off the floor. Cardboard and cling film. Pan on the door every few minutes. Clear the frost off the release. Ever worked in a kitchen with a walk-in, and did anyone ever show you the release?"
 - Community post: Thumbnail A plus "Minus eighteen, no signal, nobody coming. New video: how you actually get out of a walk-in freezer."
 - Shorts cut: 1:20 to 2:00 (noise, energy, the hidden release, the payoff) titled "The freezer door has a hidden release."
 

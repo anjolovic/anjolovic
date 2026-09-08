@@ -40,6 +40,8 @@ Paste as-is. The first two lines show above the fold.
 ```
 You're 40 meters above the ocean on the top deck of a cruise ship, and you slip. Only about one in five people who go overboard are pulled out alive. Here is what happens in the first minute, why the ship can't just stop, and the one rule that decides whether you come home.
 
+Subscribe for what happens next, minute by minute: https://www.youtube.com/@thenwhattvshow?sub_confirmation=1
+
 ⏱ Chapters
 0:00 The drop
 0:20 The first minute
@@ -48,6 +50,10 @@ You're 40 meters above the ocean on the top deck of a cruise ship, and you slip.
 1:40 The twist
 
 The rule to remember: float, don't swim. Feet first, breathe for sixty seconds, get to the ring, curl up, be seen.
+
+Which cruise are you on next, and which deck? Tell me in the comments.
+
+Next: Your Elevator Cable Snaps. Then What? Playlist: Survival.
 
 This video is for general information and is not a substitute for professional safety training. Figures are rounded; overboard counts, survival rates and cold-water survival windows vary by source and by conditions.
 
@@ -95,7 +101,7 @@ The whole video in five lines:
 4. Knees to chest. Let the ring hold you.
 5. One arm up, something bright, make noise.
 
-And the boring truth: stay behind the railing. Which cruise are you on next?
+And the boring truth: stay behind the railing. Which cruise are you on next, and which deck?
 
 That's what. See you in the next one.
 ```

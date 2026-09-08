@@ -24,6 +24,8 @@ Alternates: *Elevator Cables Can't Snap. Here's What Happens If They Do* · *Don
 ```
 Forty floors up, and the cable snaps. Should you jump at the last second? Almost everyone gets this wrong. Here is what the elevator was actually built to do, the one true story of a 75-floor fall that someone survived, and the emergency that is far more likely than falling.
 
+Subscribe for what happens next, minute by minute: https://www.youtube.com/@thenwhattvshow?sub_confirmation=1
+
 ⏱ Chapters
 0:00 The cable snaps
 0:20 Ropes, brakes and buffers
@@ -33,6 +35,10 @@ Forty floors up, and the cable snaps. Should you jump at the last second? Almost
 1:40 The twist
 
 The rule to remember: if it drops, lie flat. If it stops, sit down and wait for help. Never climb out on your own.
+
+Jump or lie flat: what would you have done before this video? Tell me in the comments.
+
+Next: You're Locked in a Walk-In Freezer. Then What? Playlist: Survival.
 
 This video is for general information and is not a substitute for professional safety guidance. Figures are rounded and vary by source.
 
@@ -56,8 +62,8 @@ what if, elevator, elevator cable snapped, falling elevator, elevator safety, sh
 
 - Card at 0:52 (the jump myth): link to the cruise-ship video.
 - Card at 1:41 (the twist): link to the What If playlist.
-- End screen 1:50 to 2:00: block 12 is a calm lobby walk-away. One video element left, subscribe right.
-- Pinned comment: "If it drops: lie flat, arms and legs wide. If it stops: alarm, intercom, sit, wait. Never climb out. Have you ever been stuck in one?"
+- End screen 1:50 to 2:00: block 12 is a calm lobby walk-away. Video element left pointing at *You're Locked in a Walk-In Freezer. Then What?*, subscribe right, Survival playlist below.
+- Pinned comment: "If it drops: lie flat, arms and legs wide. If it stops: alarm, intercom, sit, wait. Never climb out. Jump or lie flat: what would you have done before this video?"
 - Community post: Thumbnail A plus "The cable snaps forty floors up. Jump or lie flat? New video, two minutes, the answer will surprise you."
 - Shorts cut: 0:00 to 0:40 (hook to the buffer) titled "Elevator cable snaps. Now what?"
 

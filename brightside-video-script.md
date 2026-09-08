@@ -187,6 +187,10 @@ Format: `[TIME]` · **VO** (read as written) · *VISUAL* · `TEXT:` on-screen po
 
 `TEXT: FEET FIRST · ARMS CROSSED · CHIN DOWN`
 
+**VO:** If you're new here, subscribe. This is what we do: what happens next, minute by minute.
+
+*VISUAL: No change of shot. The line rides over the pencil-position figure; one sentence, then straight on.*
+
 **VO:** You hit. You go deep, maybe four or five meters. Your ears pop, everything's dark, and your brain is screaming one word: up.
 
 **VO:** And now the real danger starts. Not the fall. The temperature.
@@ -270,6 +274,8 @@ Format: `[TIME]` · **VO** (read as written) · *VISUAL* · `TEXT:` on-screen po
 *VISUAL: Thermometer plunging to 10°C, palette shifts cold blue. Clock: 60 min.*
 
 `TEXT: 10°C: ~1 HOUR`
+
+**VO:** Tell me in the comments: which cruise are you on next, and which deck?
 
 **VO:** Here's the thing, though. You don't actually die from cold in that hour. You pass out, and then you drown. Which is why the number one thing that saves people in cold water isn't swimming ability. It's flotation.
 
@@ -371,7 +377,7 @@ Format: `[TIME]` · **VO** (read as written) · *VISUAL* · `TEXT:` on-screen po
 
 ### OUTRO — 10:30 to 10:45
 
-**VO:** If you learned something today, hit like and share this with someone who's about to book a cruise. And if you want to know what happens when a pilot passes out at thirty-five thousand feet, that video's right here. That's what. See you in the next one.
+**VO:** If you learned something today, hit like and send this to someone who's about to book a cruise. And if you want to know what happens when a pilot passes out at thirty-five thousand feet, that video's right here. That's what. See you in the next one.
 
 *VISUAL: End screen with two video cards (left/right) and subscribe button.*
 

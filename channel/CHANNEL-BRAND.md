@@ -1,6 +1,6 @@
 # Then What — Channel Brand Record
 
-Status: **name locked 2026-09-07.** Handle not yet claimed (see §2). No channel art generated yet.
+Status: **channel live 2026-09-08.** Name locked, handle `@thenwhattvshow` claimed, identity "The Drop" built (`brand/`), Studio copy in `CHANNEL-SETUP.md`, per-video engagement system in `ENGAGEMENT-KIT.md`.
 
 This is the single source of truth for how the channel is named, sounds, looks, and packages
 its videos. Every script, thumbnail, and upload package inherits from here. When something
@@ -66,6 +66,14 @@ Say these identically in every episode. They become the brand within twenty uplo
 | Bonus lead-in | "Oh, and one more thing, since you stayed to the end." |
 | **Sign-off** | **"That's what. See you in the next one."** |
 
+Three engagement lines, also fixed, each in a fixed slot (full mechanics in `ENGAGEMENT-KIT.md`):
+
+| Slot | Line |
+|---|---|
+| Subscribe ask, right after the first payoff (~1:15), one sentence, then straight back into the story | "If you're new here, subscribe. This is what we do: what happens next, minute by minute." |
+| Comment prompt, at the personalisation beat (the moment the viewer maps the scenario onto their own life) | "Tell me in the comments: [the episode's one question]." |
+| Like and share, in the outro, before the next-video pointer | "If you learned something today, hit like and send this to [the person who needs it]." |
+
 The sign-off answers the channel name. It follows the next-video pointer, so the last words
 the viewer hears are the brand.
 
@@ -94,24 +102,63 @@ Rules:
 
 ## 6. Thumbnail and wordmark
 
-Consistent with thumbnails A/B/C in `../production/YOUTUBE-PACKAGE.md`.
+Identity direction: **The Drop** (chosen 2026-09-08 from three explored directions; the other
+two, "Hard Cut" and "Figure 1", are recorded in the plan history). Sources and every rendered
+size live in `brand/`; see `brand/README.md` for what goes where.
 
-- **Look:** photoreal, cinematic, one oversized subject, one moment of tension. Not cartoon.
-- **Colours:** at most three. Base palette from thumbnail A: white hull, cobalt water, yellow text with black stroke.
-- **Text:** 2–4 words max, heavy geometric sans (Bebas Neue / Anton weight), black stroke. Bottom-left by default, never over the subject's face.
-- **Wordmark:** `THEN WHAT?` in the same face. The question mark is set in the accent colour (yellow on dark, cobalt on light) and is the standalone mark at avatar size. Watermark appears at bottom-right of the video, never in the thumbnail.
-- **Accent devices:** one red arrow or circle, only when it points at the thing the title is about.
-- **Test:** upload one thumbnail, enable Test & compare with two alternates, retire the losers after the test window.
+**The mark.** A machined question mark: one constant 15-unit stroke on a 120-unit box, flat
+cut terminals, a dead-centre stem, and an oversized dot (1.4 x stroke) that has fallen through
+the baseline. In the wordmark every letter sits on the line and the dot drops 0.26 cap heights
+below it. The dot is the only element that is ever yellow.
 
-## 7. Channel art (not yet generated)
+**Palette.** Deep `#0E1A24` (ground), Bone `#F5F1E8` (ink), Signal `#FFC300` (the dot only),
+Fog `#7C8894` (straplines, rules, secondary). Signal is the same family as the thumbnail
+title yellow, which is what stitches the avatar to the thumbnails.
 
-When commissioned:
+**Type.** Wordmark: Archivo 700, all caps, +45 tracking; the `?` is always the mark, never
+typed. Support: Archivo 500, all caps, +140 tracking. Thumbnail titles stay in Anton or
+Bebas Neue with the black stroke; that voice is for thumbnails only and never the wordmark.
 
-- **Avatar:** the yellow `?` mark on cobalt, 800×800, readable at 36 px.
-- **Banner:** 2560×1440, safe area 1546×423 centred. Left: wordmark. Right: one photoreal still from the latest episode. Nothing else.
-- **Shorts wordmark:** 9:16 safe, top-centre, same mark.
+**Thumbnails.**
+- Look: photoreal, cinematic, one oversized subject, one moment of tension. Not cartoon.
+- Colours: at most three. Base palette from thumbnail A: white hull, cobalt water, yellow text with black stroke.
+- Text: 2–4 words, Anton/Bebas weight, yellow with black stroke, bottom-left, never over the subject's face.
+- **The badge:** the mark, Bone, single colour, top-left, 11% of height (79 px at 720), inset 32 px. `brand/out/thumbnail-badge-1280x720.png` is the composite layer. Top-left is the only corner every YouTube surface leaves clear. The badge and the title share the 32 px left edge.
+- The wordmark never appears on a thumbnail.
+- Accent devices: one red arrow or circle, only when it points at the thing the title is about.
+- Test: upload one thumbnail, enable Test & compare with two alternates, retire the losers.
 
-Generate with Higgsfield `generate_image` in the palette above. A few credits; do not spend without a go-ahead.
+## 7. Channel art
+
+Built, not generated: `python3 channel/brand/build.py` renders every file from `brand/build.py`
+in real Archivo via headless Chromium. No credits spent.
+
+| Asset | File | Notes |
+|---|---|---|
+| Avatar | `brand/out/avatar-800.png` | Bone mark, Signal dot, Deep ground, mark at 58% of canvas, nudged up 20 px. Not pre-rounded |
+| Banner | `brand/out/banner-2560x1440.png` | Flat typographic, no photo. Lockup and strapline "SOMETHING GOES WRONG." inside the 1546×423 safe strip; baseline rule full width at 14%; ghost mark at 5% outside the strip on the right |
+| Watermark | `brand/out/watermark-150.png` | Mark only, Bone, soft Deep shadow, transparent. Display: entire video |
+| Thumbnail badge | `brand/out/thumbnail-badge-1280x720.png` | See §6 |
+| Playlist covers | `brand/out/playlist-*-1280x720.png` | Six pillars, mark + pillar word in Fog |
+| End screen plate | `brand/out/end-screen-1920x1080.png` | Wordmark and sign-off top; lower two-thirds clear for Studio elements |
+| Shorts stamp | `brand/out/shorts-stamp-1080x1920.png` | Stacked lockup top-centre |
+| Wordmark | `brand/out/wordmark-horizontal-{deep,bone}.png`, `brand/mark*.svg` | Press, social, anything else |
+
+**Ident (3 s, end screen and Shorts head only; episodes keep no intro card).** The bowl and
+stem are already there. The dot falls in from above, lands with one dull impact, recoils two
+frames, turns Bone to Signal over six frames. Hold. Hard cut to black. On the end screen the
+landing syncs to "what" in "That's what." Per pillar only the fall changes: What If falls
+upward and never lands; Survival lands hard with one bounce; Mysteries has the dot already
+there and the bowl draws down to it; Your Body pulses twice at 60 bpm; Space falls at four
+times the duration in silence; Tests hovers one second, then lands.
+
+**The found mark.** Once per episode, in the footage, the mark exists physically for about a
+second (frost wiped in the bowl's shape with the release knob as the dot; a coiled lifebuoy
+line with the ring below). Never labelled. Regular viewers find it.
+
+Reserve system, not built: direction C's six pictogram figures (the "you" as an ISO-style
+figure, one arrangement per pillar) would make stronger playlist covers if the flat word
+covers test weak.
 
 ## 8. Channel settings (copy-ready)
 
