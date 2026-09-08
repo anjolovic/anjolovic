@@ -96,6 +96,10 @@ Format: `[TIME]` · **VO** (read as written) · *VISUAL* · `TEXT:` on-screen po
 
 `TEXT: "I HAVE CONTROL"`
 
+**VO:** If you're new here, subscribe. This is what we do: what happens next, minute by minute.
+
+*VISUAL: No change of shot. One sentence over the first officer's hands, then straight on.*
+
 **VO:** Then, in order. Check the autopilot's engaged. It is. Push the captain's seat back on its rails so a slumped body can't shove the controls. Pull the shoulder harness tight around them. And if there's any chance the problem is the air, get the oxygen mask on. Total time, about the length of this sentence.
 
 *VISUAL: Quick cuts, hands only: seat rails, harness buckle, the mask coming down from the overhead panel.*
@@ -161,6 +165,8 @@ Format: `[TIME]` · **VO** (read as written) · *VISUAL* · `TEXT:` on-screen po
 *VISUAL: Masks dropping. A parent pulling their own on first, then a child's.*
 
 `TEXT: YOUR MASK FIRST`
+
+**VO:** Tell me in the comments: window or aisle, and have you ever actually watched the safety briefing?
 
 **VO:** Two. The dive. The moment the pressure goes, the pilots get the plane down to ten thousand feet, where you can breathe, as fast as it safely can. Steep, loud, deliberate. It feels like the end of the world. It's the opposite. And it takes a few minutes, which is why your mask gives you a quarter of an hour.
 
