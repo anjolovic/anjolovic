@@ -36,7 +36,9 @@ def load_state():
     return json.loads(STATE.read_text()) if STATE.exists() else {"playlists": {}, "videos": {}}
 
 
-def save_state(s):
+def save_state(s, dry_run=False):
+    if dry_run:
+        return
     STATE.write_text(json.dumps(s, indent=2) + "\n")
 
 
@@ -54,7 +56,7 @@ def ensure_playlists(yt, state):
         })
         state["playlists"][pl["title"]] = r["id"]
         print(f"  playlist created: {pl['title']} ({r['id']})")
-    save_state(state)
+    save_state(state, yt.dry_run)
 
 
 def set_branding(yt):
@@ -138,7 +140,7 @@ def upload_episode(yt, key):
         r = yt.resumable_video_upload(meta, video)
         vid = r["id"]
         state["videos"][key] = vid
-        save_state(state)
+        save_state(state, yt.dry_run)
         print(f"{key}: uploaded as {vid} (private)")
 
     # thumbnail A with the badge composited on
